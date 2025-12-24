@@ -16,7 +16,7 @@ I build clean, responsive user interfaces and also work with game and product lo
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript (ES6+), TypeScript (learning), HTML5, CSS3  
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
 - **Frontend:** React, Vite, basic React Router  
 - **Styling:** CSS, Flexbox, Grid, CSS animations, keyframes  
 - **Tools:** Git, GitHub, npm  
