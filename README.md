@@ -1,70 +1,77 @@
-# Hi, I'm Mykyta 👋
+## Hi, I'm Mykyta 👋
 
-**Frontend Developer (React, JS) & Translator (EN / UA / RU)**  
-I build clean, responsive user interfaces and also work with game and product localization.
-
----
-
-## 🧩 What I Do
-
-- 🎨 Frontend development with **React**, **Vite** and modern **CSS**
-- ✨ UI animations: loaders, glassmorphism, drag & drop interactions
-- 🌍 Translation & localization (games, apps, marketing content)
-- 🧪 Writing small interactive UI components and utilities
+Frontend Engineer with a strong focus on **clean architecture, modular design, and problem solving**.  
+I work primarily with JavaScript and React, and also have professional experience in multilingual localization (EN / UA / RU).
 
 ---
 
-## 🛠 Tech Stack
+### 🧠 What I Focus On
 
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
-- **Frontend:** React, Vite, basic React Router  
-- **Styling:** CSS, Flexbox, Grid, CSS animations, keyframes  
-- **Tools:** Git, GitHub, npm  
-- **Other:** REST APIs, JSON, basic accessibility & responsive design
+- Building **maintainable frontend architecture**, not just UI
+- Writing **clean, predictable JavaScript**
+- Designing extensible logic (rules engines, traversal, algorithms)
+- Implementing responsive, accessible user interfaces
+- Bridging technical development with multilingual content when needed
 
 ---
 
-## 🚀 Featured Projects
+### 🛠 Tech Stack
 
-### **1. Meta Front-End Developer Capstone Project**  
-A full React application built as part of Meta’s official Front-End Developer Professional Certificate.  
-Includes routing, forms with validation, custom components, responsive layout, and API-like data flow.
+**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
+**Frontend:** React, Vite, basic React Router  
+**Styling:** CSS, Flexbox, Grid, animations, keyframes  
+**Tools:** Git, GitHub, npm, Lighthouse  
+**Other:** REST APIs, JSON, performance basics, responsive & accessible UI
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 Frontend Architecture — Engineering Case Studies
+**frontend-architecture-test-task**  
+A collection of anonymized technical assignments demonstrating:
+- modular architecture
+- algorithmic problem solving
+- rule engines, graph traversal, optimization
+- clean separation of concerns and testable design
+
+👉 https://github.com/HuntGuter/frontend-architecture-test-task
+
+---
+
+#### 🔹 Meta Front-End Developer Capstone Project
+A full React application built as part of Meta’s official Front-End Developer Professional Certificate.
+
+Includes routing, validated forms, reusable components, responsive layout, and production-style structure.
 
 📌 Repository:  
 https://github.com/HuntGuter/Meta-Frontend-Developer-Capstone-Project
 
-🎓 Verified Certificate (Credly):  
+🎓 Verified certificate (Credly):  
 https://www.credly.com/badges/c5239055-fb5a-4872-9517-d7585da2687f/public_url
 
-This project demonstrates production-level React structure, reusable UI components, improved accessibility, and professional styling methods.
+---
 
-### **2. SoundInfluencers – Frontend Test Task**  
-Animated loader (CSS keyframes) and draggable glassmorphism overlay built with React + CSS based on a Figma design.  
-Repository: https://github.com/HuntGuter/soundinfluencers_test_task
+#### 🔹 Football Schedule Generator
+Algorithmic generation of balanced home/away football league schedules (20 teams, 38 matchweeks) with a React-based UI.
 
-### **3. Football Schedule Generator**  
-Logic for generating balanced home/away match schedules with custom algorithms and a React-based UI.  
-Repository: https://github.com/HuntGuter/football-schedule-generator
+👉 https://github.com/HuntGuter/football-schedule-generator
 
 ---
 
-## 🎮 Localization & Content
+### 🌍 Localization Experience (Secondary Skill)
 
-Beyond frontend, I have strong experience in:
+Professional experience in:
+- game localization (EN / UA / RU)
+- technical and product documentation
+- app and website content adaptation
 
-- Technical, legal, and educational documents translation
-- Game localization (Five-BN Games and others)  
-- Website and app content adaptation (EN / UA / RU)  
-- Researching and structuring content for e-commerce and product catalogs
-
-If a role combines **technical UI work + multilingual content**, that’s a perfect match for me.
+This background helps when working on **international products** or content-heavy applications.
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
-- GitHub: [HuntGuter](https://github.com/HuntGuter)
-- LinkedIn: [linkedin.com/in/huntguter](https://www.linkedin.com/in/huntguter/)
+- GitHub: https://github.com/HuntGuter
+- LinkedIn: https://www.linkedin.com/in/huntguter/
 - Email: huntguter@gmail.com
-
----
