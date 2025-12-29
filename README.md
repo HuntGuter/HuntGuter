@@ -1,34 +1,63 @@
 ## Hi, I'm Mykyta 👋
 
-Frontend Engineer with a strong focus on **clean architecture, modular design, and problem solving**.  
-I work primarily with JavaScript and React, and also have professional experience in multilingual localization (EN / UA / RU).
+Frontend Engineer focused on **production-ready React applications**, clean architecture, and predictable state management.  
+I build maintainable SPAs with real business logic, async data flows, and testing in mind.
+
+I also have professional experience in multilingual localization (EN / UA / RU), which helps when working on international, content-heavy products.
 
 ---
 
 ### 🧠 What I Focus On
 
-- Building **maintainable frontend architecture**, not just UI
-- Writing **clean, predictable JavaScript**
-- Designing extensible logic (rules engines, traversal, algorithms)
-- Implementing responsive, accessible user interfaces
-- Bridging technical development with multilingual content when needed
+- Building **scalable frontend architecture**, not just UI
+- Writing **clean, typed, and testable code**
+- Designing reusable business logic with custom hooks
+- Managing async data and pagination in real-world scenarios
+- Implementing filtering, sorting, and prioritization logic
+- Understanding trade-offs between local and global state
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
-**Frontend:** React, Vite, basic React Router  
-**Styling:** CSS, Flexbox, Grid, animations, keyframes  
-**Tools:** Git, GitHub, npm, Lighthouse  
-**Other:** REST APIs, JSON, performance basics, responsive & accessible UI
+**Languages:** JavaScript (ES6+), TypeScript
+
+**Frontend:** React, Vite, React Router
+
+**State Management:** Redux Toolkit, Thunks, local vs global state patterns
+
+**Styling:** Material UI (MUI), SCSS, responsive layouts
+
+**API & Data:** Axios, REST APIs, pagination, error handling
+
+**Testing:** Vitest, React Testing Library (business logic & hooks)
+
+**Tools:** Git, GitHub, npm, Lighthouse
 
 ---
 
 ### 🚀 Featured Projects
 
+#### 🔹 Spaceflight News SPA (Codebridge Test Task)
+A production-style Single Page Application built with **React + TypeScript** based on a Figma prototype.
+
+**Key features:**
+- Article feed with pagination (Load more)
+- Keyword filtering with prioritization (title > description)
+- Highlighting matched keywords
+- Redux Toolkit for async data & pagination
+- Custom hooks for business logic
+- Unit tests for core logic and API layer
+
+**Tech:** React, TypeScript, Redux Toolkit, Axios, MUI, SCSS, Vitest
+
+🔗 Repository:  
+https://github.com/HuntGuter/codebridge-frontend-test
+
+🌐 Live demo:  
+https://codebridge-test-task-huntguter.netlify.app/
+
 #### 🔹 Frontend Architecture — Engineering Case Studies
-**frontend-architecture-test-task**  
 A collection of anonymized technical assignments demonstrating:
 - modular architecture
 - algorithmic problem solving
